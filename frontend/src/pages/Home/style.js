@@ -14,6 +14,6 @@ export const Container = styled.div`
 export const Banner = styled.img`
     position: absolute;
     top: 0;
-    right: 0;
+    left: 1260px;
     height: 1080px;
 `;

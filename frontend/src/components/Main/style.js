@@ -37,3 +37,9 @@ export const Labels = styled.div`
   gap: 70px;  
   max-width: 941px;
 `;
+
+export const ButtonContainer = styled.div`
+  display: flex;
+  gap: 37px;
+  margin-top: 105px;
+`;
